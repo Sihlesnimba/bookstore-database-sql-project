@@ -28,10 +28,8 @@ As a team of three, we collaborated to design the schema, write SQL scripts, cre
 
 The documentation for this project includes:
 
-- **ER Diagram** (`docs/erd.png`) — A visual representation of all tables and relationships.
-- **Table Schemas** (`docs/table_schemas.pdf`) — Descriptions of each table, their fields, data types, and relationships.
-- **Query Output Screenshots** (`screenshots/query_results.png`) — Evidence of successful data retrieval and testing.
-- **SQL Scripts** (`sql/`) — Contains all commands used to create the database structure, insert data, test the system, and manage users.
+- **ER Diagram** (`docs/erd.jpg`) — A visual representation of all tables and relationships.
+- **SQL Scripts** (`sql/`) — Contains all commands used to create the database structure, insert data, test the system.
 - **This README** (`README.md`) — A guide to understanding and using the project.
 
 ---
@@ -62,7 +60,6 @@ The documentation for this project includes:
    - `sql/test_queries.sql`
    - `sql/user_roles.sql` (optional – for access control setup)
 4. Review the ERD in the `docs/` folder for schema reference.
-5. View the screenshots in `screenshots/` for query outputs and testing verification.
 
 ---
 
@@ -87,7 +84,6 @@ The documentation for this project includes:
 - [x] Database schema designed
 - [x] Tables created and tested
 - [x] Sample data inserted
-- [x] User roles implemented
 - [x] Project uploaded to GitHub
 
 ---
